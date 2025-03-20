@@ -48,15 +48,16 @@ streamlit run app.py
 - **Streamlit** (for UI) 🖥
 
 ## 📊 Model & Evaluation
-|Algorithm 	|Accuracy 	|Precision|
- 	|NB 	|0.970986 |	1.000000|
- |	RF |	0.973888 |	0.98260|
-	|SVC |	0.975822 |0.974576|
-	|xgb |	0.965184 	|0.939655|
-	|GBDT |	0.950677 |	0.930693|
-	|BgC 	|0.958414 |	0.868217|
-	|DT 	|0.930368 |	0.830000|
-	|AdaBoost| 	0.921663 |	0.820225|
+|Algorithm |Accuracy |Precision|
+|----------|---------|----------|
+|NB 	| 0.970986 | 1.000000 |
+|RF     | 0.973888 | 0.98260 |
+|SVC    | 0.975822 | 0.974576 |
+|xgb    | 0.965184 | 0.939655 |
+|GBDT    | 0.950677 | 0.930693 |
+|BgC 	| 0.958414 | 0.868217 |
+|DT 	| 0.930368 |  0.830000 |
+|AdaBoost | 0.921663 | 0.820225 |
  
 ## 🏆 Results
 - Achieved **high accuracy (>98%)** in detecting spam messages
@@ -72,4 +73,6 @@ This project is licensed under the **MIT License**.
 
 ---
 ✉ **For any queries, contact:** [mv947027@gmail.com] | GitHub: [https://github.com/vishwakarma9470/sms-spam-detection.git]
+
+
 
